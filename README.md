@@ -26,6 +26,8 @@ ground truth end point are used respectively during test, for the sake of lookin
 ## Result
 The result of Goal-Conditioned Social-LSTM methods using predicted goal and ground truth goal for complete normalized pedestrian trajectory prediction (20 frames) are shown as follows:
 
+Note that the predicted goal is different from ICCV2021.
+
 Note that Goal-Conditioned Social-LSTM A means using ground truth goal during test; Goal-Conditioned Social-LSTM B means using predicted goal during test
 
 **ADE:**
